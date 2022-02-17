@@ -1,3 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&family=Lato:wght@300&family=Montserrat:wght@300&family=Roboto+Mono:ital,wght@1,700&family=Sacramento&display=swap');
+
+
+body {
+    font-family: 'Roboto+Mono', Montserrat, Sans-Serif;
+    font-weight: 800;
+}
+
 img {
     width: 30%;
+    margin: 1.6666%;
+}
+
+nav {
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    margin-left: 1.6666%;
+    padding: 20px 0;
+    padding: 1.2em;
 }
